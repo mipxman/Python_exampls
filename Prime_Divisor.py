@@ -1,5 +1,5 @@
 '''
-Mojtaba Alipour ---- Find Prime Divisor between 10 numbers 
+Mojtaba Alipour ---- Find Prime Divisor of number
 '''
 t = 0
 count = 0 #counter 
